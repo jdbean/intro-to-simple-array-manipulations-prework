@@ -1,9 +1,9 @@
-def using_unshift
-  
+def using_unshift(array, string)
+  array.unshift(string)
 end
 
 def using_pop
-  
+
 end
 
 def pop_with_args
@@ -19,7 +19,7 @@ def shift_with_args
 end
 
 def using_concat
-  
+
 end
 
 def using_insert
