@@ -2,6 +2,10 @@ def using_push(array, string)
   array.unshift(string)
 end
 
+def using_unshift
+
+end
+
 def using_pop
 
 end
